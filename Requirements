@@ -1,0 +1,4 @@
+## Requisitos del Sistema
+- IDE Arduino        Debes instalar la siguiente libreria  (https://minkafab.com/docs/U8glib.rar)
+- Marlin 1.1.9       Descargar y descomprimir el firmware pre-configurado  (https://minkafab.com/docs/Impresora%20Minkafab.rar)
+- Repetier           Debes instalar el siguiente programa (//https://www.repetier.com/download-now/)

@@ -30,12 +30,10 @@ Este proyecto es una impresora 3D que te permite convertir modelos digitales en 
 	//https://www.repetier.com/download-now/
 una vez descargado el archivo, lo descomprimimos y lo ejecutamos.
 
-##Como imprimir
+##Como imprimir 
 - Se crea la pieza en 3D en el software CAD de preferencia y se guarda como .STL
-- Una vez guardado el archivo .STL lo abrimos en el programa Repetier. 
-- Ajustamos losmparametros de impresión.
-- Guardamos el archivo .gcode en una memoria SD 
-- Colocamos la memeria SD en la controladora 
+- Una vez guardado el archivo .STL lo abrimos en el programa Repetier desde nuetra interfaz. 
+- Ajustamos los parametros de impresión.
 - Seleccionamos el archivo a imprimir y aceptamos.
 
 
